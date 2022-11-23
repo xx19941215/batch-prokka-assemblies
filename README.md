@@ -17,10 +17,10 @@ The file name format example of the source file has been given in the [data dire
 
 You can use this program directly on Linux, Windows and Mac, as long as your device has [Prokka](https://github.com/tseemann/prokka) installed.
 
-[window](batch-prokka-windows-amd64)
+[Windows](batch-prokka-windows-amd64)
 
-[mac](batch-prokka-mac-amd64)
+[Mac](batch-prokka-mac-amd64)
 
-[linux](batch-prokka-linux-amd64)
+[Linux](batch-prokka-linux-amd64)
 
 
